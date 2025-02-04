@@ -24,5 +24,5 @@ This project focuses on analyzing hospitality industry data using Pandas. The go
 - Generate custom reports based on the insights.
 
 ### Note: 
-For all the program files and results, please refer to the attached file named "Hospitality_Project."
+For all the program files and results, please refer to the attached file named "Hospitality_Project python file."
 
